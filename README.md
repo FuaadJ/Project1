@@ -1,2 +1,2 @@
-# Project1
+# Project 1
 The Training2.ipynb contains the training environment for the neural network, enabling it to trade within the OMXS30 market using deep reinforcement learning. Through continuous feedback loops and autonomous exploration, the model refines its strategies, adapting to market dynamics and optimizing decision-making. This immersive learning experience nurtures the neural network into a strategic trader, proficient in risk management and seizing opportunities amidst the complexities of the OMXS30 market.
