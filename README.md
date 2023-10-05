@@ -10,3 +10,15 @@ The Evaluation.ipynb encapsulates the identical environment, but now it presents
 Within the Final_result_1_2016, you can observe the displayed outcomes for three distinct methods, the training data used was between 2010-2015 and the displayed result is between 2016-2019.
 
 **Project 2**
+Movie Data ETL (Extract, Transform, Load) Pipeline
+
+This Python script is an example of an ETL (Extract, Transform, Load) pipeline that extracts movie data from a CSV file and loads it into a MySQL database. It is designed to handle movie titles and release years stored in the CSV file.
+
+Prerequisites
+
+Before using this ETL script, ensure that you have the following installed:
+
+    Python 3.x
+    mysql-connector-python library (install via pip install mysql-connector-python)
+
+    
